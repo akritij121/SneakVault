@@ -67,7 +67,7 @@ A full-stack, production-ready sneaker e-commerce platform built with the MERN s
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Volatile-Viv/sneakerStore.git
+git clone https://github.com/akritij121/SneakVault.git
 cd sneakerStore
 ```
 
